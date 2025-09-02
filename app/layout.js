@@ -10,7 +10,7 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Shivanshu Pandey - Software Developer",
+  title: "Portfolio of Shivanshu Pandey - Python & AI Developer",
   description:
 "This is the portfolio of Shivanshu Pandey. I am a Python and AI developer with expertise in building intelligent systems and data-driven applications. I am passionate about machine learning, deep learning, and automation, and I constantly explore innovative ways to apply AI in solving real-world problems. I am a self-taught developer, a quick learner, and always open to collaborating on impactful projects."
 };
