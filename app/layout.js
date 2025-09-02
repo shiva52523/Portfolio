@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Portfolio of Shivanshu Pandey - Software Developer",
   description:
-    "This is the portfolio of Shivanshu Pandey. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+"This is the portfolio of Shivanshu Pandey. I am a Python and AI developer with expertise in building intelligent systems and data-driven applications. I am passionate about machine learning, deep learning, and automation, and I constantly explore innovative ways to apply AI in solving real-world problems. I am a self-taught developer, a quick learner, and always open to collaborating on impactful projects."
 };
 
 export default function RootLayout({ children }) {
