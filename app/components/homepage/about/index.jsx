@@ -28,7 +28,12 @@ function AboutSection() {
             width={280}
             height={280}
             alt="Abu Said"
-            className="rounded-lg transition-all duration-1000 grayscale hover:grayscale-0 hover:scale-110 cursor-pointer"
+            className="rounded-full p-[3px] 
+             bg-gradient-to-tr from-pink-500 via-purple-500 to-blue-500 
+             shadow-xl shadow-purple-400/60
+             transition-all duration-700 ease-in-out
+             hover:scale-110 hover:rotate-6 hover:shadow-[0_0_35px_rgba(168,85,247,0.9)]
+             cursor-pointer"
           />
         </div>
       </div>
