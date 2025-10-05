@@ -1,6 +1,88 @@
 // utils/data/my-blogs.js
 
 export const myBlogs = [
+   
+  {
+    title: "AI Video Interview - Aug 2025",
+    description: "Conduct AI-assisted video interviews and analyze candidate performance.",
+    cover_image: "/image/blog_32.png",
+    url: "#",
+    published_at: "2025-08-05",
+    project: "Analyze candidate tone, expressions, and responses automatically"
+  },
+  {
+    title: "AI Recruitment Platform - Jul 2025",
+    description: "Advanced version of AI recruitment platform with enhanced analytics.",
+    cover_image: "/image/blog_31.png",
+    url: "#",
+    published_at: "2025-07-01",
+    project: "Add predictive analytics and AI interview scoring to recruitment workflow"
+  },
+  {
+    title: "Resume Parsing - Jun 2025",
+    description: "Extract structured information from resumes using NLP.",
+    cover_image: "/image/blog_30.png",
+    url: "#",
+    published_at: "2025-06-05",
+    project: "Parse resumes to extract skills, education, and experience automatically"
+  },
+  {
+    title: "Job Stability Scoring - May 2025",
+    description: "AI system to score and rank candidates for job applications.",
+    cover_image: "/image/blog_29.png",
+    url: "#",
+    published_at: "2025-05-10",
+    project: "Rank candidates automatically based on resume, experience, and skills"
+  },
+  {
+    title: "Email Campaign Notifier - Apr 2025",
+    description: "Automate email campaigns with AI-powered analytics and notifications.",
+    cover_image: "/image/blog_28.png",
+    url: "#",
+    published_at: "2025-04-05",
+    project: "Send personalized emails and track open/click rates with AI insights"
+  },
+  {
+    title: "AI Video Analyzer - Mar 2025",
+    description: "Analyze and classify video content using computer vision and AI.",
+    cover_image: "/image/blog_27.png",
+    url: "#",
+    published_at: "2025-03-01",
+    project: "Detect objects, emotions, and activities from uploaded videos"
+  },
+  {
+    title: "Candidate Assessment - Sep 202",
+    description: "Automate assessment of candidates with AI-based evaluation.",
+    cover_image: "/image/blog_26.png",
+    url: "#",
+    published_at: "2025-09-01",
+    project: "Score candidates on coding, aptitude, and soft skills using AI models"
+  },
+  
+  {
+    title: "Agriculture Optimization System - Jan 2025",
+    description: "Use Python and ML to optimize agricultural yield prediction.",
+    cover_image: "/image/blog_25.png",
+    url: "#",
+    published_at: "2025-01-05",
+    project: "Predict crop yield based on soil, weather, and crop data using ML models"
+  },
+  {
+    title: "Task Management System - Dec 2025",
+    description: "Create a productivity and task tracking system with Python and Django.",
+    cover_image: "/image/blog_24.png",
+    url: "#",
+    published_at: "2025-12-01",
+    project: "Implement task creation, assignment, and progress tracking for teams"
+  },
+  {
+    title: "Employee Management System - Nov 2025",
+    description: "Build a full-featured employee management system using Python and Flask.",
+    cover_image: "/image/blog_23.png",
+    url: "#",
+    published_at: "2025-11-01",
+    project: "Develop a web app to manage employee records, attendance, and payroll"
+  },
   {
     title: "Python AI Project: Real-time Object Detection - Oct 2025",
     description: "Detect objects in real-time using YOLOv8 and Python.",
