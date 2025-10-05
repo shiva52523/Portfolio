@@ -40,7 +40,7 @@ function Blog({ blogs }) {
           role="button"
           href="/blog"
         >
-          <span>View Projects & Researches</span>
+          <span>View Projects & Research</span>
           <FaArrowRight size={16} />
         </Link>
       </div>
