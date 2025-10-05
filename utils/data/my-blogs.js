@@ -1,24 +1,180 @@
 // utils/data/my-blogs.js
+
 export const myBlogs = [
   {
-    title: "Getting Started with Python for AI",
-    description: "Step by step guide to start AI development in Python",
-    cover_image: "/image/blog_1.png",
+    title: "Python AI Project: Real-time Object Detection - Oct 2025",
+    description: "Detect objects in real-time using YOLOv8 and Python.",
+    cover_image: "/image/blog_22.png",
     url: "#",
-    published_at: "2025-10-05"
+    published_at: "2025-10-05",
+    project: "Deploy YOLOv8 object detection on live webcam feed"
   },
   {
-    title: "Machine Learning Basics",
-    description: "Introduction to ML concepts and algorithms",
+    title: "AI Project: Handwriting Recognition - Sep 2025",
+    description: "Classify handwritten characters using deep learning models.",
+    cover_image: "/image/blog_21.png",
+    url: "#",
+    published_at: "2025-09-15",
+    project: "Build a CNN model to recognize handwritten digits and letters"
+  },
+  {
+    title: "Python Project: Stock Price Prediction - Aug 2025",
+    description: "Predict stock prices using Python ML models and historical data.",
+    cover_image: "/image/blog_20.png",
+    url: "#",
+    published_at: "2025-08-12",
+    project: "Predict stock prices using LSTM neural networks"
+  },
+  {
+    title: "AI Project: Object Tracking - Jul 2025",
+    description: "Track objects in videos using Python and OpenCV.",
+    cover_image: "/image/blog_19.png",
+    url: "#",
+    published_at: "2025-07-10",
+    project: "Implement a multi-object tracker using OpenCV and Python"
+  },
+  {
+    title: "Python Project: Sentiment Analysis Dashboard - Jun 2025",
+    description: "Create a web dashboard to visualize sentiment analysis results.",
+    cover_image: "/image/blog_18.png",
+    url: "#",
+    published_at: "2025-06-15",
+    project: "Build a Flask dashboard showing sentiment of tweets in real-time"
+  },
+  {
+    title: "AI Project: Text Summarization - May 2025",
+    description: "Learn abstractive and extractive text summarization using Python NLP libraries.",
+    cover_image: "/image/blog_17.png",
+    url: "#",
+    published_at: "2025-05-12",
+    project: "Summarize articles using BERT and spaCy"
+  },
+  {
+    title: "Reinforcement Learning Project: Game AI - Apr 2025",
+    description: "Build AI agents to play simple games using Python.",
+    cover_image: "/image/blog_16.png",
+    url: "#",
+    published_at: "2025-04-10",
+    project: "Train an agent to play Flappy Bird using Q-learning"
+  },
+  {
+    title: "AI Project: Image Segmentation - Mar 2025",
+    description: "Learn image segmentation using U-Net architecture in Python.",
+    cover_image: "/image/blog_15.png",
+    url: "#",
+    published_at: "2025-03-15",
+    project: "Segment objects in images using U-Net CNN model"
+  },
+  {
+    title: "Python Project: NLP Chatbot with Transformers - Feb 2025",
+    description: "Build an advanced NLP chatbot using transformer models like BERT.",
+    cover_image: "/image/blog_14.png",
+    url: "#",
+    published_at: "2025-02-12",
+    project: "Create a BERT-based chatbot for FAQ automation"
+  },
+  {
+    title: "AI Project: Face Recognition - Jan 2025",
+    description: "Learn facial recognition using Python and OpenCV.",
+    cover_image: "/image/blog_13.png",
+    url: "#",
+    published_at: "2025-01-10",
+    project: "Detect and recognize faces from images and webcam feed"
+  },
+  {
+    title: "Python AI Project: Fraud Detection - Dec 2024",
+    description: "Build a machine learning model to detect fraudulent transactions.",
+    cover_image: "/image/blog_12.png",
+    url: "#",
+    published_at: "2024-12-15",
+    project: "Classify transactions as fraud or non-fraud using Random Forest"
+  },
+  {
+    title: "AI Project: Speech Recognition - Nov 2024",
+    description: "Learn how to process audio data and build a speech recognition model using Python.",
+    cover_image: "/image/blog_11.png",
+    url: "#",
+    published_at: "2024-11-12",
+    project: "Convert speech to text using Python's SpeechRecognition library"
+  },
+  {
+    title: "Reinforcement Learning Basics - Oct 2024",
+    description: "Introduction to reinforcement learning concepts and Q-learning implementation with Python.",
+    cover_image: "/image/blog_10.png",
+    url: "#",
+    published_at: "2024-10-10",
+    project: "Train an agent to solve a maze environment using Q-learning"
+  },
+  {
+    title: "Time Series Forecasting with Python - Sep 2024",
+    description: "Learn how to predict future data points using Python libraries like Prophet and statsmodels.",
+    cover_image: "/image/blog_9.png",
+    url: "#",
+    published_at: "2024-09-15",
+    project: "Forecast monthly sales data using ARIMA and Prophet"
+  },
+  {
+    title: "AI Project: Recommendation System - Aug 2024",
+    description: "Build a collaborative filtering recommendation system using Python and Pandas.",
+    cover_image: "/image/blog_8.png",
+    url: "#",
+    published_at: "2024-08-12",
+    project: "Movie recommendation system using user-item ratings"
+  },
+  {
+    title: "Computer Vision Project: Object Detection - Jul 2024",
+    description: "Learn object detection using OpenCV and YOLO with Python.",
+    cover_image: "/image/blog_7.png",
+    url: "#",
+    published_at: "2024-07-10",
+    project: "Detect objects in real-time using webcam input"
+  },
+  {
+    title: "AI Project: Chatbot Development - Jun 2024",
+    description: "Create a simple chatbot using Python and NLP techniques.",
+    cover_image: "/image/blog_6.png",
+    url: "#",
+    published_at: "2024-06-15",
+    project: "Build a rule-based chatbot for FAQ automation"
+  },
+  {
+    title: "Deep Learning Basics - May 2024",
+    description: "Learn the fundamentals of deep learning including neural networks, activation functions, and backpropagation.",
+    cover_image: "/image/blog_5.png",
+    url: "#",
+    published_at: "2024-05-12",
+    project: "Implement a simple feedforward neural network for binary classification"
+  },
+  {
+    title: "Natural Language Processing with Python - Apr 2024",
+    description: "Introduction to NLP tasks like sentiment analysis and text classification using Python.",
+    cover_image: "/image/blog_4.png",
+    url: "#",
+    published_at: "2024-04-10",
+    project: "Build a sentiment analysis model for Twitter data"
+  },
+  {
+    title: "Python AI Project: Image Classifier - Mar 2024",
+    description: "Build a basic CNN model to classify images using TensorFlow and Keras.",
+    cover_image: "/image/blog_3.png",
+    url: "#",
+    published_at: "2024-03-15",
+    project: "Image classification of handwritten digits using MNIST dataset"
+  },
+  {
+    title: "Predictive Analytics & Clustering - Feb 2024",
+    description: "Introduction to supervised and unsupervised learning algorithms with Python projects.",
     cover_image: "/image/blog_2.png",
     url: "#",
-    published_at: "2025-09-20"
+    published_at: "2024-02-12",
+    project: "Create a linear regression model predicting house prices and a k-means clustering project on customer segmentation"
+  },
+  {
+    title: "AI Starter Kit - Jan 2024",
+    description: "Learn the basics of Python programming and AI setup including libraries like NumPy, Pandas, and scikit-learn.",
+    cover_image: "/image/blog_1.png",
+    url: "#",
+    published_at: "2024-01-10",
+    project: "Build a Python script to preprocess datasets and train your first AI model"
   }
-  // {
-  //   title: "Deep Learning with Python",
-  //   description: "A beginner's guide to deep learning using Python",
-  //   cover_image: "https://via.placeholder.com/300",
-  //   url: "https://example.com/deep-learning-python",
-  //   published_at: "2025-09-15"
-  // }
 ];
