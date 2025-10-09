@@ -108,59 +108,59 @@ export const myBlogs = [
     project: "Predict stock prices using LSTM neural networks"
   },
   {
-    title: "AI Project: Object Tracking - Jul 2025",
+    title: "AI Project: Object Tracking - Sep 2024",
     description: "Track objects in videos using Python and OpenCV.",
     cover_image: "/image/blog_19.png",
     url: "#",
-    published_at: "2025-07-10",
+    published_at: "2024-09-10",
     project: "Implement a multi-object tracker using OpenCV and Python"
   },
   {
-    title: "Python Project: Sentiment Analysis Dashboard - Jun 2025",
+    title: "Python Project: Sentiment Analysis Dashboard - Aug 2024",
     description: "Create a web dashboard to visualize sentiment analysis results.",
     cover_image: "/image/blog_18.png",
     url: "#",
-    published_at: "2025-06-15",
+    published_at: "2024-08-15",
     project: "Build a Flask dashboard showing sentiment of tweets in real-time"
   },
   {
-    title: "AI Project: Text Summarization - May 2025",
+    title: "AI Project: Text Summarization - Jul 2024",
     description: "Learn abstractive and extractive text summarization using Python NLP libraries.",
     cover_image: "/image/blog_17.png",
     url: "#",
-    published_at: "2025-05-12",
+    published_at: "2024-07-12",
     project: "Summarize articles using BERT and spaCy"
   },
   {
-    title: "Reinforcement Learning Project: Game AI - Apr 2025",
+    title: "Reinforcement Learning Project: Game AI - Jun 2024",
     description: "Build AI agents to play simple games using Python.",
     cover_image: "/image/blog_16.png",
     url: "#",
-    published_at: "2025-04-10",
+    published_at: "2024-06-10",
     project: "Train an agent to play Flappy Bird using Q-learning"
   },
   {
-    title: "AI Project: Image Segmentation - Mar 2025",
+    title: "AI Project: Image Segmentation - May 2024",
     description: "Learn image segmentation using U-Net architecture in Python.",
     cover_image: "/image/blog_15.png",
     url: "#",
-    published_at: "2025-03-15",
+    published_at: "2024-05-15",
     project: "Segment objects in images using U-Net CNN model"
   },
   {
-    title: "Python Project: NLP Chatbot with Transformers - Feb 2025",
+    title: "Python Project: NLP Chatbot with Transformers - Apr 2024",
     description: "Build an advanced NLP chatbot using transformer models like BERT.",
     cover_image: "/image/blog_14.png",
     url: "#",
-    published_at: "2025-02-12",
+    published_at: "2024-04-12",
     project: "Create a BERT-based chatbot for FAQ automation"
   },
   {
-    title: "AI Project: Face Recognition - Jan 2025",
+    title: "AI Project: Face Recognition - Mar 2024",
     description: "Learn facial recognition using Python and OpenCV.",
     cover_image: "/image/blog_13.png",
     url: "#",
-    published_at: "2025-01-10",
+    published_at: "2024-03-10",
     project: "Detect and recognize faces from images and webcam feed"
   },
   {
@@ -260,6 +260,7 @@ export const myBlogs = [
     project: "Build a Python script to preprocess datasets and train your first AI model"
   }
 ];
+
 
 
 
