@@ -164,19 +164,19 @@ export const myBlogs = [
     project: "Detect and recognize faces from images and webcam feed"
   },
   {
-    title: "Python AI Project: Fraud Detection - Dec 2024",
+    title: "Python AI Project: Fraud Detection - Feb 2024",
     description: "Build a machine learning model to detect fraudulent transactions.",
     cover_image: "/image/blog_12.png",
     url: "#",
-    published_at: "2024-12-15",
+    published_at: "2024-02-15",
     project: "Classify transactions as fraud or non-fraud using Random Forest"
   },
   {
-    title: "AI Project: Speech Recognition - Nov 2024",
+    title: "AI Project: Speech Recognition - Jan 2024",
     description: "Learn how to process audio data and build a speech recognition model using Python.",
     cover_image: "/image/blog_11.png",
     url: "#",
-    published_at: "2024-11-12",
+    published_at: "2024-01-12",
     project: "Convert speech to text using Python's SpeechRecognition library"
   },
   {
@@ -260,6 +260,7 @@ export const myBlogs = [
     project: "Build a Python script to preprocess datasets and train your first AI model"
   }
 ];
+
 
 
 
