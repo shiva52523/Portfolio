@@ -184,7 +184,7 @@ export const myBlogs = [
     description: "Introduction to reinforcement learning concepts and Q-learning implementation with Python.",
     cover_image: "/image/blog_10.png",
     url: "#",
-    published_at: "2023-13-10",
+    published_at: "2023-12-10",
     project: "Train an agent to solve a maze environment using Q-learning"
   },
   {
@@ -260,6 +260,7 @@ export const myBlogs = [
     project: "Build a Python script to preprocess datasets and train your first AI model"
   }
 ];
+
 
 
 
