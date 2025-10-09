@@ -84,27 +84,27 @@ export const myBlogs = [
     project: "Develop a web app to manage employee records, attendance, and payroll"
   },
   {
-    title: "Python AI Project: Real-time Object Detection - Oct 2025",
+    title: "Python AI Project: Real-time Object Detection - Dec 2024",
     description: "Detect objects in real-time using YOLOv8 and Python.",
     cover_image: "/image/blog_22.png",
     url: "#",
-    published_at: "2025-10-05",
+    published_at: "2024-12-05",
     project: "Deploy YOLOv8 object detection on live webcam feed"
   },
   {
-    title: "AI Project: Handwriting Recognition - Sep 2025",
+    title: "AI Project: Handwriting Recognition - Nov 2024",
     description: "Classify handwritten characters using deep learning models.",
     cover_image: "/image/blog_21.png",
     url: "#",
-    published_at: "2025-09-15",
+    published_at: "2024-11-15",
     project: "Build a CNN model to recognize handwritten digits and letters"
   },
   {
-    title: "Python Project: Stock Price Prediction - Aug 2025",
+    title: "Python Project: Stock Price Prediction - Oct 2024",
     description: "Predict stock prices using Python ML models and historical data.",
     cover_image: "/image/blog_20.png",
     url: "#",
-    published_at: "2025-08-12",
+    published_at: "2024-10-12",
     project: "Predict stock prices using LSTM neural networks"
   },
   {
@@ -260,6 +260,7 @@ export const myBlogs = [
     project: "Build a Python script to preprocess datasets and train your first AI model"
   }
 ];
+
 
 
 
