@@ -71,7 +71,7 @@ export const myBlogs = [
     title: "Task Management System - Feb 2025",
     description: "Create a productivity and task tracking system with Python and Django.",
     cover_image: "/image/blog_24.png",
-    url: "#",
+    url: "https://github.com/shiva52523/Task-Management-System.git",
     published_at: "2025-02-01",
     project: "Implement task creation, assignment, and progress tracking for teams"
   },
@@ -260,6 +260,7 @@ export const myBlogs = [
     project: "Build a Python script to preprocess datasets and train your first AI model"
   }
 ];
+
 
 
 
