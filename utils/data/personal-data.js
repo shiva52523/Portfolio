@@ -2,7 +2,7 @@ export const personalData = {
   name: "SHIVANSHU PANDEY",
   profile: '/profile.png',
   designation: "Python & AI Developer",
-  description: "My name is SHIVANSHU PANDEY. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on Python and I love to do most of the things using Artificial Inteligence. I am available for any kind of job opportunity that suits my skills and interests.",
+  description: "My name is Shivanshu Pandey, and I am a professional and enthusiastic Python and AI Developer. I am a quick learner with a strong self-learning attitude, always eager to explore and master new technologies. Passionate about problem-solving and innovation, I enjoy working across various aspects of web application development and contributing to making the web more open and accessible. My core expertise lies in Python, and I leverage it to build intelligent, efficient, and scalable solutions powered by Artificial Intelligence. I am open to exciting job opportunities that align with my skills, interests, and passion for technology.",
   email: 'shivanshu495520@gmail.com',
   phone: '+919628032712',
   address: 'Ballia Uttar Pradesh',
