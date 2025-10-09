@@ -63,7 +63,7 @@ export const myBlogs = [
     title: "Agriculture Optimization System - Mar 2025",
     description: "Use Python and ML to optimize agricultural yield prediction.",
     cover_image: "/image/blog_25.png",
-    url: "#",
+    url: "https://github.com/shiva52523/Agriculture-Optimization-System.git",
     published_at: "2025-03-05",
     project: "Predict crop yield based on soil, weather, and crop data using ML models"
   },
@@ -260,6 +260,7 @@ export const myBlogs = [
     project: "Build a Python script to preprocess datasets and train your first AI model"
   }
 ];
+
 
 
 
