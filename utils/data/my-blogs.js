@@ -79,7 +79,7 @@ export const myBlogs = [
     title: "Employee Management System - Jan 2025",
     description: "Build a full-featured employee management system using Python and Flask.",
     cover_image: "/image/blog_23.png",
-    url: "#",
+    url: "https://github.com/shiva52523/Employee-Management.git",
     published_at: "2025-01-01",
     project: "Develop a web app to manage employee records, attendance, and payroll"
   },
@@ -260,6 +260,7 @@ export const myBlogs = [
     project: "Build a Python script to preprocess datasets and train your first AI model"
   }
 ];
+
 
 
 
