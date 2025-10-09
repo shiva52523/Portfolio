@@ -3,11 +3,11 @@
 export const myBlogs = [
    
   {
-    title: "AI Video Interview - Aug 2025",
+    title: "AI Video Interview - Oct 2025",
     description: "Conduct AI-assisted video interviews and analyze candidate performance.",
     cover_image: "/image/blog_32.png",
     url: "#",
-    published_at: "2025-08-05",
+    published_at: "2025-10-20",
     project: "Analyze candidate tone, expressions, and responses automatically"
   },
   {
@@ -260,3 +260,4 @@ export const myBlogs = [
     project: "Build a Python script to preprocess datasets and train your first AI model"
   }
 ];
+
