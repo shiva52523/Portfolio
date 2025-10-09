@@ -180,85 +180,86 @@ export const myBlogs = [
     project: "Convert speech to text using Python's SpeechRecognition library"
   },
   {
-    title: "Reinforcement Learning Basics - Oct 2024",
+    title: "Reinforcement Learning Basics - Dec 2023",
     description: "Introduction to reinforcement learning concepts and Q-learning implementation with Python.",
     cover_image: "/image/blog_10.png",
     url: "#",
-    published_at: "2024-10-10",
+    published_at: "2023-13-10",
     project: "Train an agent to solve a maze environment using Q-learning"
   },
   {
-    title: "Time Series Forecasting with Python - Sep 2024",
+    title: "Time Series Forecasting with Python - Nov 2023",
     description: "Learn how to predict future data points using Python libraries like Prophet and statsmodels.",
     cover_image: "/image/blog_9.png",
     url: "#",
-    published_at: "2024-09-15",
+    published_at: "2023-11-15",
     project: "Forecast monthly sales data using ARIMA and Prophet"
   },
   {
-    title: "AI Project: Recommendation System - Aug 2024",
+    title: "AI Project: Recommendation System - Oct 2023",
     description: "Build a collaborative filtering recommendation system using Python and Pandas.",
     cover_image: "/image/blog_8.png",
     url: "#",
-    published_at: "2024-08-12",
+    published_at: "2023-10-12",
     project: "Movie recommendation system using user-item ratings"
   },
   {
-    title: "Computer Vision Project: Object Detection - Jul 2024",
+    title: "Computer Vision Project: Object Detection - Sep 2023",
     description: "Learn object detection using OpenCV and YOLO with Python.",
     cover_image: "/image/blog_7.png",
     url: "#",
-    published_at: "2024-07-10",
+    published_at: "2023-09-10",
     project: "Detect objects in real-time using webcam input"
   },
   {
-    title: "AI Project: Chatbot Development - Jun 2024",
+    title: "AI Project: Chatbot Development - Aug 2023",
     description: "Create a simple chatbot using Python and NLP techniques.",
     cover_image: "/image/blog_6.png",
     url: "#",
-    published_at: "2024-06-15",
+    published_at: "2023-08-15",
     project: "Build a rule-based chatbot for FAQ automation"
   },
   {
-    title: "Deep Learning Basics - May 2024",
+    title: "Deep Learning Basics - Jul 2023",
     description: "Learn the fundamentals of deep learning including neural networks, activation functions, and backpropagation.",
     cover_image: "/image/blog_5.png",
     url: "#",
-    published_at: "2024-05-12",
+    published_at: "2023-07-12",
     project: "Implement a simple feedforward neural network for binary classification"
   },
   {
-    title: "Natural Language Processing with Python - Apr 2024",
+    title: "Natural Language Processing with Python - Jun 2023",
     description: "Introduction to NLP tasks like sentiment analysis and text classification using Python.",
     cover_image: "/image/blog_4.png",
     url: "#",
-    published_at: "2024-04-10",
+    published_at: "2023-06-10",
     project: "Build a sentiment analysis model for Twitter data"
   },
   {
-    title: "Python AI Project: Image Classifier - Mar 2024",
+    title: "Python AI Project: Image Classifier - May 2023",
     description: "Build a basic CNN model to classify images using TensorFlow and Keras.",
     cover_image: "/image/blog_3.png",
     url: "#",
-    published_at: "2024-03-15",
+    published_at: "2023-05-15",
     project: "Image classification of handwritten digits using MNIST dataset"
   },
   {
-    title: "Predictive Analytics & Clustering - Feb 2024",
+    title: "Predictive Analytics & Clustering - Apr 2023",
     description: "Introduction to supervised and unsupervised learning algorithms with Python projects.",
     cover_image: "/image/blog_2.png",
     url: "#",
-    published_at: "2024-02-12",
+    published_at: "2023-04-12",
     project: "Create a linear regression model predicting house prices and a k-means clustering project on customer segmentation"
   },
   {
-    title: "AI Starter Kit - Jan 2024",
+    title: "AI Starter Kit - Mar 2023",
     description: "Learn the basics of Python programming and AI setup including libraries like NumPy, Pandas, and scikit-learn.",
     cover_image: "/image/blog_1.png",
     url: "#",
-    published_at: "2024-01-10",
+    published_at: "2023-03-10",
     project: "Build a Python script to preprocess datasets and train your first AI model"
   }
 ];
+
 
 
