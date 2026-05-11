@@ -38,7 +38,7 @@ export const metadata = {
     title: "Shivanshu Pandey - Python & AI Developer",
     description:
       "Explore projects, skills, and achievements of Shivanshu Pandey - a Python & AI Developer.",
-    url: "https://portfolio-ochre-seven-63.vercel.app/",
+    url: "https://shivanshu-pandey.vercel.app/",
     siteName: "Portfolio of Shivanshu Pandey",
     images: [
       {
