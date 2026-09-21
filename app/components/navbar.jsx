@@ -35,6 +35,27 @@ function Navbar() {
           <li>
             <Link className="block px-4 py-2 no-underline outline-none hover:no-underline" href="/#projects"><div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">PROJECTS</div></Link>
           </li>
+          <li>
+            <Link
+              href="/admin"
+              className="block px-3 py-1.5 no-underline outline-none hover:no-underline ml-2"
+              title="Admin Panel"
+            >
+              <div
+                className="text-xs font-semibold transition-all duration-300"
+                style={{
+                  color: '#10b981',
+                  border: '1px solid rgba(16,185,129,0.35)',
+                  borderRadius: '8px',
+                  padding: '5px 12px',
+                  background: 'rgba(16,185,129,0.06)',
+                  letterSpacing: '0.5px',
+                }}
+              >
+                🔐 Admin
+              </div>
+            </Link>
+          </li>
         </ul>
       </div>
     </nav>
