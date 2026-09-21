@@ -153,7 +153,7 @@ export function InfoBanner() {
     }}>
       <span style={{ fontSize: '20px' }}>💡</span>
       <div>
-        <strong>Note:</strong> Changes are saved to your browser's local storage. To make permanent changes, 
+        <strong>Note:</strong> Changes are saved to your browser&apos;s local storage. To make permanent changes, 
         the updated values will be shown — you can copy them to the source data files manually or deploy via code.
       </div>
     </div>
